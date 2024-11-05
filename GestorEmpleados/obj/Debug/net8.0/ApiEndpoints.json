@@ -1,0 +1,18 @@
+[
+  {
+    "ContainingType": "MiWebAPI.Controllers.EmpleadoController",
+    "Method": "AddEmpleado",
+    "RelativePath": "api/Empleado/AddEmpleado",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "objeto",
+        "Type": "MiWebAPI.Models.Empleado",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
